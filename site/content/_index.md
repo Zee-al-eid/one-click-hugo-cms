@@ -1,6 +1,6 @@
 ---
-title: Zee
-subtitle: THIS WEBSITE IS CREATED BY ZEEALEID
+title: KALDI
+subtitle: Need a website like this, contact Zee-al-eid.
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
